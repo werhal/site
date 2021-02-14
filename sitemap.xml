@@ -3,11 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://werhal.com/umnee/</loc>
-    <lastmod>2021-02-14T15:39:42+03:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://werhal.com/app_privacy_terms/equition/</loc>
   </url>
   
@@ -45,6 +40,10 @@
   
   <url>
     <loc>http://werhal.com/kremlin_clock_ru/</loc>
+  </url>
+  
+  <url>
+    <loc>http://werhal.com/umnee/</loc>
   </url>
   
 </urlset>
