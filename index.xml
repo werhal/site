@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>http://example.org/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Умнее среднего: викторина-квиз для Android</title>
+      <link>http://example.org/umnee/</link>
+      <pubDate>Sun, 14 Feb 2021 15:39:42 +0300</pubDate>
+      
+      <guid>http://example.org/umnee/</guid>
+      <description>Вы действительно умнее среднего, или вам лишь приятно так думать?
+Викторина «Умнее среднего» – интеллектуальный поединок-квиз, который расставляет всё на свои места.
+Здесь нет абстрактного среднего. Есть средний игрок – такой же как вы, недавно сыгравший в вопросы и ответы. Способны показать результат выше? Отлично! Хотя здесь все в это верили.
+Высокая эрудиция и скорость: качества, которыми половина игроков не блещет. Вы из какой половины?</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://example.org/app_privacy_terms/equition/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/app_privacy_terms/equition/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://example.org/app_privacy_terms/kremlin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/app_privacy_terms/kremlin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://example.org/app_privacy_terms/momentix/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/app_privacy_terms/momentix/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://example.org/app_privacy_terms/rmbrart/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/app_privacy_terms/rmbrart/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://example.org/app_privacy_terms/sta/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/app_privacy_terms/sta/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Куранты: приложение для Android</title>
+      <link>http://example.org/kremlin_clock_ru/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/kremlin_clock_ru/</guid>
+      <description>★ Аналоговый циферблат с секундной стрелкой
+★ Праздничный бой часов в полночь (новогодний отсчет)
+★ Точное время из интернета, приближенное к идеальному до 1/100 секунды
+★ Часы останутся на экране: телефон не уснет
+ПОЧЕМУ ЖЕЛАНИЯ НЕ СБЫВАЛИСЬ? Куранты служили символом точного времени. В новогоднюю ночь каждый телевизор показывал прямой эфир с Красной площади. Когда куранты начинают перезвон – год почти завершен. Пора наполнять бокал шампанского. Двенадцать ударов колокола – последние секунды года.</description>
+    </item>
+    
+  </channel>
+</rss>
