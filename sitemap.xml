@@ -1,49 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
-  <url>
-    <loc>http://werhal.com/app_privacy_terms/equition/</loc>
-  </url>
+  <sitemap>
+    <loc>http://werhal.com/en/sitemap.xml</loc>
+    
+  </sitemap>
   
-  <url>
-    <loc>http://werhal.com/app_privacy_terms/kremlin/</loc>
-  </url>
+  <sitemap>
+    <loc>http://werhal.com/ru/sitemap.xml</loc>
+    
+  </sitemap>
   
-  <url>
-    <loc>http://werhal.com/app_privacy_terms/momentix/</loc>
-  </url>
-  
-  <url>
-    <loc>http://werhal.com/app_privacy_terms/rmbrart/</loc>
-  </url>
-  
-  <url>
-    <loc>http://werhal.com/app_privacy_terms/sta/</loc>
-  </url>
-  
-  <url>
-    <loc>http://werhal.com/app_privacy_terms/</loc>
-  </url>
-  
-  <url>
-    <loc>http://werhal.com/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>http://werhal.com/tags/</loc>
-  </url>
-  
-  <url>
-    <loc>http://werhal.com/</loc>
-  </url>
-  
-  <url>
-    <loc>http://werhal.com/kremlin_clock_ru/</loc>
-  </url>
-  
-  <url>
-    <loc>http://werhal.com/umnee/</loc>
-  </url>
-  
-</urlset>
+</sitemapindex>
